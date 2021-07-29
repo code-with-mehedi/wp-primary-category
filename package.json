@@ -1,0 +1,22 @@
+{
+  "name": "10up-primary-category",
+  "version": "1.0.0",
+  "description": "This plugin helps to create sidebar for posts",
+  "main": "tenup-custom-post-sidebar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "packages-update": "wp-scripts packages-update",
+    "start": "wp-scripts start"
+  },
+  "keywords": [
+    "wordpress",
+    "gutenberg",
+    "pluginsidebar"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/scripts": "^17.0.0"
+  }
+}
